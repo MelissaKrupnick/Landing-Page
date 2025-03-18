@@ -1,0 +1,11 @@
+/*This is the hero header section*/ 
+
+.header-container {
+    /* display: flex; */
+}
+
+/* this selector selects all divs inside of .hero-header */
+.header-container div {
+    background: #1f2937;
+    /* flex: 1; */
+}
